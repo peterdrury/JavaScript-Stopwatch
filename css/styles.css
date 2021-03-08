@@ -1,0 +1,43 @@
+body {
+  background-color: #3d74c2;
+  color: rgb(255, 250, 242);
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+#subHeader {
+  color: rgb(255, 250, 242);
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.timeDisplay {
+  font-size: 5em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+button {
+  background-color: #c28b3d;
+  color: rgb(255, 250, 242);
+  width: 10em;
+  height: 4em;
+  font-size: 1.25em;
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border-radius: 10px;
+}
+
+#btnStart:hover {
+  background-color: #bd5e16;
+}
+
+#btnStop:hover {
+  background-color: #bd5e16;
+}
+
+#btnReset:hover {
+  background-color: #bd5e16;
+}
